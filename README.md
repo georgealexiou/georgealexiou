@@ -22,4 +22,4 @@ Hey! I'm George Alexiou from Athens, Greece. I currently live in London, UK work
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:george@alexiou.xyz)](mailto:george@alexiou.xyz)
 &nbsp;[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/george-alexiou-41ab44167/)](https://www.linkedin.com/in/george-alexiou-41ab44167/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/georgealexiou)](https://twitter.com/georgealexiou)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/georgealexiou_)](https://twitter.com/georgealexiou_)
