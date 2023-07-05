@@ -1,7 +1,7 @@
 ## Hey, I'm George 👋
 I am from Athens, Greece and I currently live in London, UK working as a Full-Stack Software Engineer. I am a Computer Science MEng graduate from the University of Southampton. I have a big interest in mobile and web application development with particular interest in solving complex front-end problems!
 
-## Languages
+### Languages
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 &nbsp;![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
