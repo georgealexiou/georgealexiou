@@ -1,9 +1,9 @@
-## George Alexiou
-Hey! I'm George Alexiou from Athens, Greece. I currently live in London, UK working as a Full-Stack Software Engineer. I am a Computer Science MEng graduate from the University of Southampton.
+## Hey, I'm George 👋
+I am from Athens, Greece and I currently live in London, UK working as a Full-Stack Software Engineer. I am a Computer Science MEng graduate from the University of Southampton. I have a big interest in mobile and web application development with particular interest in solving complex front-end problems!
 
 ## Languages
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 &nbsp;![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 &nbsp;![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 &nbsp;![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
