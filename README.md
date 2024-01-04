@@ -1,5 +1,5 @@
 ## Hey, I'm George 👋
-I am from Athens, Greece and I currently live in London, UK working as a Full-Stack Software Engineer. I am a Computer Science MEng graduate from the University of Southampton. I have a big interest in mobile and web application development with particular interest in solving complex front-end problems!
+I am from Athens, Greece and I currently live in London, UK working as a Software Engineer. I am a Computer Science MEng graduate from the University of Southampton. I have a big interest in mobile and web application development with particular interest in solving complex front-end problems!
 
 ### Languages
 
